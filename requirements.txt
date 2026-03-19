@@ -1,0 +1,4 @@
+# Requirements for Graphhopper Enhanced Directions App
+# Run: pip install -r requirements.txt
+
+requests
