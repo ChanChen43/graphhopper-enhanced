@@ -7,7 +7,7 @@
 ## Team Information
 | Field | Details |
 |-------|---------|
-| Team Name | [YOUR TEAM NAME HERE] |
+| Team Name | [Team Snowbear V2] |
 | Member 1 | Christian Louis Suico — Lead Developer / API Integration |
 | Member 2 | Jay Talingting — Feature Developer / Transport Modes |
 | Member 3 | Jan Earl Tampus — Feature Developer / Estimator Functions |
@@ -69,4 +69,4 @@ Get a free API key at https://www.graphhopper.com/ and replace `YOUR_API_KEY_HER
 
 ---
 
-*© 2020 - 2024 Cisco and/or its affiliates. All rights reserved. Cisco Public*
+
