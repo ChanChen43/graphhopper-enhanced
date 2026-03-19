@@ -2,8 +2,8 @@
 # Team Name  : [Team Snowbear V2]
 # Members    :
 #   1. Christian Louis Suico   - Lead Developer / API Integration
-#   2. Jay Talingting          - Feature Developer / Transport Modes
-#   3. Jan Earl Tampus         - Feature Developer / Estimator Functions [DONE]
+#   2. Jay Talingting          - Feature Developer / Transport Modes [DONE]
+#   3. Jan Earl Tampus         - Feature Developer / Estimator Functions
 #   4. Wilfred Cholo Penales   - Tester / Documentation
 # Project    : Project Activity 3 - Social Coding
 # Option     : Option 1 - Feature Enhancements of Lab 4.9.2
